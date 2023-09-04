@@ -1,0 +1,56 @@
+#Pai{
+text-align: center;
+margin: auto;
+font-weight: normal;
+}
+
+.filho1 h1 span{
+
+    font-weight: bold ;
+}
+
+.filho1 h1{
+    color: #3F3D56;
+    font-family: 'Dosis', sans-serif;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 50px;
+}
+.filho1 p{
+    color: #828282;
+   font-family: 'Open Sans', sans-serif;
+   line-height: 18px;
+   font-size: 15px;
+   font-weight: normal;
+   }
+
+.filho1 h1 span{
+color: #EE24FF;
+}
+
+
+.filho1 span{
+    color: #3F3D56;
+    
+}
+
+#img2 {
+position: relative;
+top: 41px;
+
+}
+
+.line{
+    height: 0px;
+    width: 568px;
+    border: 1px #ECEFF2 solid;
+    margin:  auto;
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+
+
+a{
+    font-family: 'Open Sans', sans-serif;
+    margin-LEFT: 28px;
+}
